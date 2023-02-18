@@ -1,97 +1,84 @@
-<!-- Preloader -->
+<!-- Preloading -->
 <div class="preloader">
-    <div class="preloader-wrapper">
-        <div class="preloader-content">
-            <div class="blob-1"></div>
-          <div class="blob-2"></div>
+    <div class=" loader">
+        <div class="square"></div>
+        <div class="path">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
         </div>
+      <p class="text-load">Loading :</p>
     </div>
 </div>
-<!-- Preloader -->
-<!-- Navbar -->
-<div class="fixed-top bg-white">
-    <div class="navbar-area sticky-black">
-        <div class="container">
-            <div class="mobile-nav">
-                <a href="#" class="mobile-brand">
-                    <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                </a>
-                <div class="navbar-option">
-                    <div class="navbar-option-item">
-                        <button type="button">
-                            <i class="flaticon-user" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item side-topbar-option">
-                        <button type="button">
-                            <i class="flaticon-grid" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item">
-                        <button type="button" class="search-option">
-                            <i class="icofont-search-1"></i>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="main-nav">
-            <div class="container">
-                <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="#">
-                        <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                    </a>
-                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                        <ul class="navbar-nav mx-auto">
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">HOME</a>
-                            </li>
+<!-- End Preloading -->
 
-                            <li class="nav-item">
-                                <a href="#about" class="nav-link">ABOUT US</a>
-                            </li>
+<!-- MAGIC CURSOR -->
+<div class="mouse-cursor cursor-outer"></div>
+<div class="mouse-cursor cursor-inner"></div>
+<!-- /MAGIC CURSOR -->
 
-                            <li class="nav-item">
-                                <a href="#services" class="nav-link">SERVICES</a>
-                            </li>
 
-                            <li class="nav-item">
-                                <a href="#projects" class="nav-link">PROJECTS</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#news" class="nav-link">NEWS</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="navbar-option">
-                        <div class="navbar-option-item">
-                            <a href="#" class="btn main-btn">More Features</a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Navbar -->
 <!-- Header -->
-<header class="header header-bg header-bottom-space header-bg-image">
-    <div class="container-fluid p-lg-0 custom-container-fluid">
-        <div class="row m-lg-0 align-items-center">
-            <div class="col-lg-6 p-lg-0">
-                <div class="max-585 ms-lg-auto">
-                    <div class="header-content header-content-white m-0">
-                        <h1>Best Machine Learning Product Creator</h1>
-                        <p>Transforming businesses with Artificial Intelligence</p>
-                        <div class="button-group button-group-animated">
-                            <a href="https://poocoin.app/tokens/0xF77e1E11F6A9Ad89D2970F2e5101923a3E317D14" class="btn main-btn">Poocoin Chart</a>
-                            <a href="https://t.me/ErudexAiPortal" class="btn main-btn main-btn-white">Telegram Group</a>
+<header id="header_main" class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="header__body">
+                    <div class="header__logo">
+                        <a href="#">
+                            <img id="site-logo" src="{{ asset('images/logo.png') }}"
+                            alt="ICOLand" width="165" height="40"
+                            data-retina="{{ asset('images/logo/logo-main@x2.png') }}" data-width="165"
+                            data-height="40">
+                        </a>
+                    </div>
+
+                    <div class="header__right">
+                        <nav id="main-nav" class="main-nav">
+                            <ul id="menu-primary-menu" class="menu">
+                              <li class="menu-item">
+                                  <a href="#">HOME</a>
+                              </li>
+
+                              <li class="menu-item">
+                                  <a href="#about">ABOUT</a>
+                              </li>
+
+                              <li class="menu-item">
+                                  <a href="#features">FEATURES</a>
+                              </li>
+
+                              <li class="menu-item">
+                                  <a href="#allocation">ALLOCATION</a>
+                              </li>
+
+                              <li class="menu-item">
+                                  <a href="#roadmap">ROADMAP</a>
+                              </li>
+
+                              <li class="menu-item">
+                                  <a href="#tokenomics">TOKENOMICS</a>
+                              </li>
+
+                              <li class="menu-item">
+                                  <a href="#documents">DOCUMENTS</a>
+                              </li>
+                            </ul>
+                        </nav>
+                        <div class="group-button">
+                            <a class="btn-action" href="#">
+                                <span>EXPLORER</span>
+                            </a>
                         </div>
+                        <div class="mobile-button"><span></span></div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </header>
-<!-- Header -->
+<!-- end Header -->

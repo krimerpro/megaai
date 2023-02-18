@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en-US" class="no-js no-svg">
+<html lang="en">
   <head>
      @include('includes.head')
   </head>
 
-  <body>
+  <body class="home-main header-fixed" data-magic-cursor="show">
      <header class="row">
          @include('includes.header')
      </header>
