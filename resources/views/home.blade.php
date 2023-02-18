@@ -10,9 +10,19 @@
                     <h2 class="title">Powering Data for the new equity blockchain.</h2>
                     <p class="desc">The platform helps investors to make easy to purchase and sell their tokens</p>
 
-                    <div class="button">
-                        <a class="btn-action" href="https://t.me/MegaAIPortal"><span>JOIN OUR OFFICIAL TELEGRAM GROUP</span><span class="icon-arrow"></span></a>
-                    </div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="button">
+                            <a class="btn-action" href="https://t.me/MegaAIPortal"><span>JOIN OUR OFFICIAL TELEGRAM GROUP</span><span class="icon-arrow"></span></a>
+                        </div>
+                      </div>
+
+                      <div class="col-md-6">
+                        <div class="button">
+                            <a class="btn-action" href="https://poocoin.app/tokens/"><span>OPEN CHART</span><span class="icon-arrow"></span></a>
+                        </div>
+                      </div>
+                  </div>
                 </div>
             </div>
         </div>
