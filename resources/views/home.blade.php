@@ -330,7 +330,7 @@
 <!-- End Section Road Map -->
 
 <!-- Section Token Details -->
-<section class="token-details style-1" id="tokenomic">
+<section class="token-details style-1" id="tokenomics">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
