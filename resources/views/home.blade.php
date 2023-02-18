@@ -19,7 +19,7 @@
 
                       <div class="col-md-6">
                         <div class="button">
-                            <a class="btn-action" href="https://poocoin.app/tokens/"><span>OPEN CHART</span><span class="icon-arrow"></span></a>
+                            <a class="btn-action" href="https://poocoin.app/tokens/0xDA00Ea92EA38a5A1caCAe99D17bA6AbBA2Cf8143"><span>OPEN CHART</span><span class="icon-arrow"></span></a>
                         </div>
                       </div>
                   </div>
