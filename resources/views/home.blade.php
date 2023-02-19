@@ -366,7 +366,7 @@
                             <p class="fs-17">Initial Liquidity</p>
                         </li>
                         <li>
-                            <h5>1.000.000.000</h5>
+                            <h5>50.000.000</h5>
                             <p class="fs-17">Total Supply $MEGA</p>
                         </li>
                     </ul>
