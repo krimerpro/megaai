@@ -19,7 +19,7 @@
 
                       <div class="col-md-6">
                         <div class="button">
-                            <a class="btn-action" href="https://poocoin.app/tokens/0xDA00Ea92EA38a5A1caCAe99D17bA6AbBA2Cf8143"><span>OPEN CHART</span><span class="icon-arrow"></span></a>
+                            <a class="btn-action" href="https://poocoin.app/tokens/"><span>OPEN CHART</span><span class="icon-arrow"></span></a>
                         </div>
                       </div>
                   </div>
@@ -346,11 +346,11 @@
                 <div class="infomation" data-aos="fade-up" data-aos-duration="800">
                     <ul class="info-list">
                         <li class="active">
-                            <h5>8%</h5>
+                            <h5>4%</h5>
                             <p class="fs-17">Buy Tax</p>
                         </li>
                         <li>
-                            <h5>8%</h5>
+                            <h5>4%</h5>
                             <p class="fs-17">Sell Tax</p>
                         </li>
                         <li>
@@ -362,7 +362,7 @@
                             <p class="fs-17">Max Wallet</p>
                         </li>
                         <li>
-                            <h5>1 BNB</h5>
+                            <h5>2 BNB</h5>
                             <p class="fs-17">Initial Liquidity</p>
                         </li>
                         <li>
