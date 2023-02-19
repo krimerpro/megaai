@@ -19,7 +19,7 @@
 
                       <div class="col-md-6">
                         <div class="button">
-                            <a class="btn-action" href="https://poocoin.app/tokens/0x962C771cc5286f3A4E00dbC9A9DE5e04Fa18938e"><span>OPEN CHART</span><span class="icon-arrow"></span></a>
+                            <a class="btn-action" href="https://poocoin.app/tokens/0xB4a4191dbaa91BB8e29eA8c09B5E18413CbacAdB"><span>OPEN CHART</span><span class="icon-arrow"></span></a>
                         </div>
                       </div>
                   </div>
@@ -366,7 +366,7 @@
                             <p class="fs-17">Initial Liquidity</p>
                         </li>
                         <li>
-                            <h5>50.000.000</h5>
+                            <h5>1.000.000.000</h5>
                             <p class="fs-17">Total Supply $MEGA</p>
                         </li>
                     </ul>
